@@ -1,12 +1,12 @@
 ## 🌟 **G#sh Developer** 🔥
 #### 23 y/o 🎂 from Italy 🍝🍕
-<img href="https://portfolio-dagostino.vercel.app/" src="https://img.shields.io/badge/Visit-PORTFOLIO-blue" alt="Portfolio" />
+ <a href="https://portfolio-dagostino.vercel.app/"><img  src="https://img.shields.io/badge/Visit-PORTFOLIO-blue" alt="Portfolio" /></a>
 <br/>
 <br/>
 
 <div>
-  <img href="https://www.linkedin.com/in/gerardo-d-agostino-429039239/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  <img href="gerardodagostinowork@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  <a  href="https://www.linkedin.com/in/gerardo-d-agostino-429039239/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="gerardodagostinowork@gmail.com" ><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 </div>
 
 
