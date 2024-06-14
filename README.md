@@ -25,7 +25,7 @@
 
 ## Work History
 
-#### Web Designer 🖌️
+#### Software Developer 🖌️
 Freelance | 2020 - Now
 
 #### Back-End Developer Stage 🧱
