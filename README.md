@@ -25,8 +25,8 @@
 
 ## Work History
 
-#### Software Developer 🖌️
-Freelance | 2020 - Now
+#### Web Developer 🖌️
+Freelance | 2021 - Now
 
 #### Back-End Developer Stage 🧱
 Innovaway S.p.a | 2022
