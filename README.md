@@ -13,8 +13,8 @@
 
 ## Education
 
-#### IT Science 🛜 | 2015 - 2020 
-#### Bachelor's Degree Computer Engineering 🎓 | 2024 - Now
+#### IT Science - I.T.I. G.B. Lucarelli Benevento 🛜 | 2015 - 2020 
+#### Bachelor's Degree CyberSecurity - Università degli Studi di Milano 🎓 | 2024 - Now
 <br/>
 
 ## Certifications
@@ -25,14 +25,11 @@
 
 ## Work History
 
-#### Web Developer 🖌️
-Freelance | 2021 - Now
-
 #### Back-End Developer Stage 🧱
 Innovaway S.p.a | 2022
 
-#### Full Stack Developer Stage 💻
-NC Agency | 2023 - 2024
+#### Full Stack Developer 💻
+MySelf | 2022 - 2024
 
 
 ## Skills
