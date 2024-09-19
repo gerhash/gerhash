@@ -1,6 +1,6 @@
 ## 🌟 **G#sh Developer** 🔥
 #### 23 y/o 🎂 from Italy 🍝🍕
- <a href="https://portfolio-dagostino.vercel.app/"><img  src="https://img.shields.io/badge/Visit-PORTFOLIO-blue" alt="Portfolio" /></a>
+ 
 <br/>
 <br/>
 
