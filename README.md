@@ -33,4 +33,4 @@ MySelf | 2022 - 2024
 
 
 ## Skills
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,py,selenium,django,postman,flask,opencv,jquery,nodejs,express,docker,php,laravel,npm,git,github,bash,mongodb,mysql,sqlite,linux,kali,ubuntu,arduino,visualstudio,vercel,unreal,unity,ps,ai,ae,pr,blender,figma,xd" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=c,html,css,js,ts,react,nextjs,tailwind,bootstrap,py,selenium,django,postman,flask,opencv,jquery,nodejs,express,docker,php,laravel,npm,git,github,bash,mongodb,mysql,sqlite,linux,kali,ubuntu,arduino,visualstudio,vercel,unreal,unity,ps,ai,ae,pr,blender,figma,xd" alt="Skills" />
