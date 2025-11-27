@@ -1,5 +1,5 @@
 ## 🌟 **G#sh Developer** 🔥
-#### 23 y/o 🎂 from Italy 🍝🍕
+#### 24 y/o 🎂 from Italy 🍝🍕
  
 <br/>
 <br/>
@@ -29,7 +29,7 @@
 Innovaway S.p.a | 2022
 
 #### Full Stack Developer 💻
-MySelf | 2022 - 2024
+Freelance | 2023 - Now
 
 
 ## Skills
